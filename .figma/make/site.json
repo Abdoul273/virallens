@@ -1,0 +1,12 @@
+{
+  "title": "ViralLens — Coach IA Créateurs",
+  "language": "fr",
+  "description": "Coach IA pour créateurs TikTok, Reels et Shorts — Analyse de rétention, audit de hooks et recommandations de montage avec Google Gemini.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
